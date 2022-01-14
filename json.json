@@ -1,4 +1,13 @@
 {
   "code": 1,
-  "item": "SYOHIN"
+  "test": "test_cd",
+  "item": {
+    "article_id": 9999,
+    "label": {
+      "label_code": "PIG",
+      "label_name": "豚"
+    },
+    "shop": {
+      "shop_cd": "tanaka"
+    }
 }
