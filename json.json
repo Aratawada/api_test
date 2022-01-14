@@ -1,6 +1,10 @@
 {
   "code": 1,
   "test": "test_cd",
+  "tags": [
+    {"tag_cd": "tag1", "tag_name": "color"}, 
+    {"tag_cd": "tag2", "tag_name": "animal"}
+  ],
   "item": {
     "article_id": 9999,
     "label": {
